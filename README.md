@@ -9,10 +9,11 @@
 - 💞️ Collaboration
       I am eager to collaborate on data science projects and coding endeavors.
       If you have exciting projects or ideas, feel free to reach out. Let's learn and create together!
-- 📫 Connect with Me
+- 📫 Connect with Me:
       LinkedIn ==>> https://www.linkedin.com/in/zoha-khalid-87644a2b4/
-      gMail    ==>> zohakhalid1201@gmail.com
-- ⚡ Did you know that I enjoy coding while singing a song? It's my unique way of blending the art of programming with the joy of music. You might catch me typing to the rhythm of my favorite tunes!
+      ,gMail    ==>> zohakhalid1201@gmail.com
+- ⚡ Fun Fact:
+      Did you know that I enjoy coding while singing a song? It's my unique way of blending the art of programming with the joy of music. You might catch me typing to the rhythm of my favorite tunes!
 
 <!---
 ZohaKhalid12/ZohaKhalid12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
